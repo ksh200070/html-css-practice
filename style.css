@@ -1,0 +1,16 @@
+h2 {
+  font-size: 40px;
+}
+p {
+  font-size: 16px;
+  line-height: 1.3;
+}
+.date-info {
+  color: gray;
+  font-size: 12px;
+  font-weight: lighter;
+}
+
+.first-phar {
+  font-weight: 500;
+}
